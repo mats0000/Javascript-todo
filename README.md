@@ -1,4 +1,4 @@
-# javascrip-test
+# javascript-test
 
 ## JavaScript概要
 https://jsprimer.net/
