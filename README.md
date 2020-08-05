@@ -37,7 +37,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 
 1. `<input type="text">` のformに文字列を打ち込み、enter keyを押したときに、打ち込んだ文字列がconsoleにされるようにしてください
 
-2. 1で作ったformに文字列を打ち込み、enter keyを押したときに、formの下に文字列がlistで追加されるようにしてください
+2. 1で作ったformに文字列を打ち込み、enter keyを押したときに、formの下に文字列が `<li>` で追加されるようにしてください
 
 3. 現在のtodoの総数が total: 1 のように表示されるようにしてください。
 
