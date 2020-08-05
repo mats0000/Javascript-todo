@@ -35,7 +35,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 - この課題は積み上げ式（１つ前のPRが完成してから次のPRに取りかかれる）です。 レビュー待ちのときは、その課題ででてきたキーワードについて深堀りをしておくと良いと思います
 - index.jsに記述してください。コード量が増えてきたら、ファイルを分割してもOKです
 
-1. formに文字列を打ち込み、enter keyを押したときに、打ち込んだ文字列がconsole.logにされるようにしてください
+1. formに文字列を打ち込み、enter keyを押したときに、打ち込んだ文字列がconsoleにされるようにしてください
 
 2. formに文字列を打ち込み、enter keyを押したときに、formの下に文字列がlistで追加されるようにしてください
 
