@@ -25,4 +25,3 @@ https://codesandbox.io/new-dashboard/home
 6. checkしたtodoの数が、checked: 1のように表示されるようにしてください
 
 7. 今までの仕組みをもとに、リファクタリングをしてください（解説付き）
-
