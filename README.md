@@ -25,11 +25,3 @@ https://codesandbox.io/new-dashboard/home
 6. checkしたtodoの数が、checked: 1のように表示されるようにしてください
 
 7. 今までの仕組みをもとに、リファクタリングをしてください（解説付き）
-
-# Vue.js
-
-## Vue.js概要
-工事中
-
-## Vue.jsで簡単なアプリケーションを作る
-工事中
